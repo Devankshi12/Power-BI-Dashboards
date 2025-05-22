@@ -46,3 +46,6 @@ This Power BI project presents a comprehensive analysis of sales performance for
 
 📬 Connect
 Feel free to reach out if you'd like to collaborate or know more about this project!
+ ![Screenshot 2025-05-22 163929](https://github.com/user-attachments/assets/d6757f13-4a40-4c0e-8045-2013d797bfda)
+
+
