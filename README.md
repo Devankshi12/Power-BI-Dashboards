@@ -77,7 +77,10 @@ This Power BI project analyzes simulated Spotify streaming data to uncover trend
 
 ### 📁 Files Included
 - `SPOTIFY.pbix`: Power BI report file
-- Screenshot of dashboard (add if available)
+-![Screenshot 2025-05-22 164439](https://github.com/user-attachments/assets/7e33dd8f-642a-4694-a1b4-ee7af4979fb9)
+![Screenshot 2025-05-22 164418](https://github.com/user-attachments/assets/c6c53891-9dab-4340-ad6b-703c04c5ea95)
+![Screenshot 2025-05-22 164355](https://github.com/user-attachments/assets/2776a9e6-e8fb-419f-90b2-a6631973055e)
+
 
 ### 📌 Objective
 To explore how streaming behavior varies by artist, time, and genre, helping digital platforms better engage with users.
