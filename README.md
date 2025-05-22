@@ -49,3 +49,38 @@ Feel free to reach out if you'd like to collaborate or know more about this proj
  ![Screenshot 2025-05-22 163929](https://github.com/user-attachments/assets/d6757f13-4a40-4c0e-8045-2013d797bfda)
 
 
+---
+
+## 🎧 Spotify User Behavior Dashboard - Power BI Project
+
+This Power BI project analyzes simulated Spotify streaming data to uncover trends in user behavior, song popularity, and listening habits. It provides actionable insights for marketing and content curation strategies.
+
+### 📊 Dashboard Highlights
+
+#### Key Metrics:
+- Total Plays: 1.8M+
+- Unique Users: 100K+
+- Most Streamed Artist, Song, and Genre
+- Average Listening Duration per User
+
+#### Visualizations Include:
+- Top 10 Artists & Songs by Streams
+- Genre-wise User Preferences
+- Daily & Monthly Listening Trends
+- Heatmap of Listening Time (hourly vs. day-wise)
+
+### 🛠 Tools & Techniques
+- **Power BI** for dashboard creation
+- **Power Query** for data transformation
+- **DAX** for KPIs like Average Listening Time, User Retention
+- Interactive filters for Genre, Country, and Time Period
+
+### 📁 Files Included
+- `SPOTIFY.pbix`: Power BI report file
+- Screenshot of dashboard (add if available)
+
+### 📌 Objective
+To explore how streaming behavior varies by artist, time, and genre, helping digital platforms better engage with users.
+
+---
+
